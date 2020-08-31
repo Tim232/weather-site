@@ -1,5 +1,5 @@
 const maincolor = '#87FFB7' //여기에 메인컬러를 입력하세요
-const meavatar = ''
+const meavatar = 'https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2016/12/category_weather_500x500.png?w=310&h=310&crop=1'
 
 const projectname = ['Light','React Native','Lite']; //여기에 project 이름을 입력하세요
 const projectment = ['No Long Loading!','Simple and Convenient','The best weather app'] //여기에 project 소개를 입력하세요
