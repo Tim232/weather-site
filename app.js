@@ -12,7 +12,7 @@ for(var i = 0; i<projectname.length; i++){ //버튼 생성
   document.getElementsByClassName('project')[0].innerHTML += `<a href="/"><img src="${avatar[i]}"><div><p class="pname"><strong>${projectname[i]}</strong></p><p class="pment">${projectment[i]}</p></div></a>`
 }
 
-document.title = `${nickname}의 공식사이트`
+document.title = `Weather-App`
 document.querySelector("body > div.name").innerHTML = name
 document.querySelector("body > div.ment").innerHTML = myment
 document.querySelector("body > div.container > svg > path").style.fill = maincolor
