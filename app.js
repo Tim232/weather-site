@@ -3,7 +3,7 @@ const meavatar = 'https://newyork.cbslocal.com/wp-content/uploads/sites/14578484
 
 const projectname = ['Light','React Native','Lite']; //여기에 project 이름을 입력하세요
 const projectment = ['No Long Loading!','Simple and Convenient','The best weather app'] //여기에 project 소개를 입력하세요
-const avatar = [''] //thumbnail links
+const avatar = ['https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuN7RlE7r6zu-E39J9rmMS75tHWRgKUlo8ow&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIvge8ZpZivOMxe_AWkKrqX5ioiQAQhUIgcQ&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF2m0jhunTAprbPiAKYYErjjZRE0eFV-iBvQ&usqp=CAU'] //thumbnail links
 
 
 
