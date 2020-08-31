@@ -1,5 +1,4 @@
 const maincolor = '#87FFB7' //여기에 메인컬러를 입력하세요
-const meavatar = 'https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2016/12/category_weather_500x500.png?w=310&h=310&crop=1'
 
 const projectname = ['Light','React Native','Lite']; //여기에 project 이름을 입력하세요
 const projectment = ['No Long Loading!','Simple and Convenient','The best weather app'] //여기에 project 소개를 입력하세요
@@ -17,6 +16,5 @@ document.querySelector("body > div.name").innerHTML = name
 document.querySelector("body > div.ment").innerHTML = myment
 document.querySelector("body > div.container > svg > path").style.fill = maincolor
 document.querySelector("body > div.profile > a").href = `https://github.com/Tim232`
-document.querySelector("body > div.profile > a").innerHTML = `<img src="${meavatar}">`
 document.querySelector("body > div.profile > div").innerHTML = `<p>이름 : ${name}</p><p>별명 : ${nickname}</p><p>대표작 : ${mywork}</p><p>경력 : ${career}</p><p>소개 : ${explanation}</p>`
 document.querySelector("body > div.footer").innerHTML = `<a href="https://github.com/Tim232"><span>Github</span></a><a href="https://discord.endbot.kro.kr/"><span>Discord</span></a>` 
